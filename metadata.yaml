@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7720
     wikipedia: http://en.wikipedia.org/wiki/Longinus_%28literature%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17957#On-the-Sublime
 gutenberg_issued: '2006-03-10'
 gutenberg_type: Text
 identifiers:
