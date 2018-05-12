@@ -1,0 +1,46 @@
+_repo: On-the-Sublime_17957
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  translator:
+    agent_name: Havell, H. L. (Herbert Lord)
+    alias: Havell, Herbert Lord
+    deathdate: 1913
+    gutenberg_agent_id: '2966'
+    url: http://www.gutenberg.org/2009/agents/2966
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longinus, active 1st century
+    aliases:
+    - Pseudo-Longinus
+    - Longinos
+    - Pseudo-Longinos
+    - Longino, Dionisio
+    gutenberg_agent_id: '7720'
+    url: http://www.gutenberg.org/2009/agents/7720
+    wikipedia: http://en.wikipedia.org/wiki/Longinus_%28literature%29
+description: ''
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhetoric, Ancient'
+- !lcsh 'Sublime, The'
+- !lcc 'PA'
+title: On the Sublime
+url: http://www.gutenberg.org/ebooks/17957
